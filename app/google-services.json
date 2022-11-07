@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "52431658923",
+    "project_id": "hanoy-90fd1",
+    "storage_bucket": "hanoy-90fd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52431658923:android:3b62cc7850fc3671d9bcee",
+        "android_client_info": {
+          "package_name": "com.hassan.hanoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52431658923-691deb7k7rb409gvis3noufa5ddtem6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjmfC4j8HH8HRAcROh1E-KOX2Epo66Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52431658923-691deb7k7rb409gvis3noufa5ddtem6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52431658923:android:1b9b93e26be1513ed9bcee",
+        "android_client_info": {
+          "package_name": "com.hassan.hanoykotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52431658923-691deb7k7rb409gvis3noufa5ddtem6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjmfC4j8HH8HRAcROh1E-KOX2Epo66Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52431658923-691deb7k7rb409gvis3noufa5ddtem6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
